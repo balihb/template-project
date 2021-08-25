@@ -1,1 +1,1 @@
-helm-chart-experiment
+template-project
